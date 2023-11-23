@@ -1,0 +1,3 @@
+name: BuffEndCrystal
+version: '${version}'
+main: net.luxcube.minecraft.BuffEndCrystal
